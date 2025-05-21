@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there!
 
 I'm Krystal Alston — a TripleTen Data Science graduate with a passion for data-driven problem solving and uncovering actionable insights through analytics. With hands-on experience in Python, machine learning, and real-world datasets, I enjoy turning complex challenges into clear, strategic solutions.
 
